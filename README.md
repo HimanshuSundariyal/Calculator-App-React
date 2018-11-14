@@ -7,8 +7,9 @@ This is a sample react App which having calculator functionality.
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/HimanshuSundariyal/React-Crud-App.git
+$ git clone https://github.com/HimanshuSundariyal/Calculator-App-React.git
 ```
+
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
